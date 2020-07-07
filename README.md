@@ -1,1 +1,1 @@
-# CSS-Task-2
+Copy of CampusX dashboard webpage using HTML and CSS
